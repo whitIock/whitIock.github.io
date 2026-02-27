@@ -1,2 +1,2 @@
 # whitIock.github.io
-Portfolio Website
+Studio site, a showcase of my creative and technical projects.
